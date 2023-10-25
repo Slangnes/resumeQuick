@@ -1,8 +1,7 @@
 # resumeQuick
-A quick node webpage of my resume that I will be working on
 
-I will be updating with some effects, or relevent things, and some design updates as well!
+This is a Node.js web page that displays my resume. I will be updating it with some effects, relevant information, and design updates.
 
-Right now it uses a template literal as a response to a request to send an html snippet.
+The page currently uses a template literal to respond to a request and send an HTML snippet. It also supports light or dark mode based on your system preferences.
 
-It also has support for light or dark mode based on your system preferences.
+To start the server, run `npm start`, and then go to `localhost:3000` to view the page.
