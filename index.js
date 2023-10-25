@@ -48,9 +48,7 @@ const server = http.createServer((req, res) => {
         <p><strong>Professional Summary:</strong> Experienced web developer with a background in financial systems, business process automation, and game design.</p>
         <p>Consistent success in varied roles, demonstrating adaptability, a practical approach, and a dedication to forward-thinking solutions</p>
         
-        <p>Email:<a href=mailto:"shane@shanelangnes.com">Shane@Shanelangnes.com</a></p>
-        <p>Github:<a href="https://github.com/Slangnes">https://github.com/Slangnes</a></p>
-        <p>Linkedin:<a href="https://www.linkedin.com/in/slangnes/">https://www.linkedin.com/in/slangnes/</a></p>
+        <h2><p><a href=mailto:"shane@shanelangnes.com">Email</a> | <a href="https://github.com/Slangnes">Github</a> | <a href="https://www.linkedin.com/in/slangnes/">Linkedin</a></p></h2>
         
         <h2>Professional Experience:</h2>
         <h3>Georgia's Own Credit Union (Programmer/Developer 2019 - 2023)</h3>
