@@ -57,97 +57,73 @@ function getHtmlContent() {
     </head>
     <body>
         <h1>Shane Langnes</h1>
-        <p><strong>Professional Summary:</strong> Experienced web developer with a background in financial systems, business process automation, and game design.</p>
-        <p>Consistent success in varied roles, demonstrating adaptability, a practical approach, and a dedication to forward-thinking solutions</p>
+        <p><strong>Professional Summary:</strong> Experienced and versatile web developer with a robust background in software development, AI integration, and system optimization. Proven ability to adapt to various roles, demonstrating skills in full-stack development, project management, and AI implementation. Passionate about innovating and streamlining processes to enhance system functionalities and user experience.</p>
         
-        <h2><p><a href=mailto:"shane@shanelangnes.com">Email</a> | <a href="https://github.com/Slangnes">Github</a> | <a href="https://www.linkedin.com/in/slangnes/">Linkedin</a></p></h2>
-        
-        <h2>Professional Experience:</h2>
-        <h3>Georgia's Own Credit Union (Programmer/Developer 2019 - 2023)</h3>
-        <ul>
-            <li>Managed online banking platforms, overseeing transitions and updates.</li>
-            <li>Trained in DNA Creator and Alkami software systems.</li>
-            <li>Implemented WordPress updates through code review and process improvement.</li>
-        </ul>
-    
-    <h3>Consultant (Art & Tech Integration 2020-2022)</h3>
-    <ul>
-        <li>Collaborated with organizations such as Artlanta, Chase Village, and Art & Industry Atlanta.</li>
-        <li>Facilitated coding tutorials and AR experiences at Arcadia.</li>
-        <li>Partnered with vendors and artists for projection mapping projects like "Through the Door" and Arcadia's opening festival.</li>
-    </ul>
+        <h2><p><a href="mailto:shane@shanelangnes.com">Email</a> | <a href="https://github.com/Slangnes">Github</a> | <a href="https://www.linkedin.com/in/slangnes/">Linkedin</a></p></h2>
 
-        <h3>Latitude (Developer 2019 - 2020)</h3>
+        <h2>Professional Experience:</h2>
+        <h3>Georgia's Own Credit Union (Programmer/Developer, 2019 - 2023)</h3>
         <ul>
-            <li>Contributed to game prototype design, with one game becoming notably popular.</li>
-            <li>Assisted in forming creator policies for AI game compatibility.</li>
-            <li>Supported customer service inquiries related to game functionality.</li>
+            <li>Actively participated in Scrum methodology implementation and team Agile training, enhancing project delivery efficiency.</li>
+            <li>Contributed to the development of 'Voltron', an interface integrating CRM systems with conversion data for online payment system transitions, using SQL Server, Oracle Database, and PowerQuery.</li>
+            <li>Assisted in setting up and maintaining the Alkami Online Banking System SDK; developed mortgage rate features using C# .NET.</li>
+            <li>Managed Git repository configurations and WordPress environment code maintenance, ensuring robust source code control.</li>
+            <li>Addressed security vulnerabilities and optimized website performance using tools like New Relic and Azure Load Testing.</li>
+            <li>Supported full-stack development using Java, VanillaJS, React, PHP, JavaScript, and CSS; maintained custom WordPress themes and plugins.</li>
+            <li>Aided in UX research, wireframe design, and site redesign processes, enhancing user interaction and engagement.</li>
+            <li>Participated in API integration and development using Node.js, Google Cloud Functions, Firebase/Firestore, and Google Sheets for dynamic rate updates.</li>
+            <li>Supported various web and email system integrations, contributing to improved user experience and communications efficiency.</li>
+            <li>Streamlined the development intake process and created comprehensive technical documentation.</li>
         </ul>
     
-        <h3>National Credit Resolution (Collector 2015 - 2018)</h3>
+        <h3>Latitude (AI Dungeon, Developer, 2019 - 2020)</h3>
         <ul>
-            <li>Developed an automation system, significantly reducing workforce requirements.</li>
-            <li>Achieved consistent sales targets, earning $70K+ monthly.</li>
+            <li>Collaborated with the AI team on AI Dungeon, working with early versions of GPT-2 and GPT-3 models to enhance gaming experiences.</li>
+            <li>Engaged in front-end development and testing; involved in greenlighting games and strategic decisions for AI functionalities.</li>
+            <li>Conducted explorations and practical implementations of AI models, contributing to the development of engaging and innovative games.</li>
+        </ul>
+
+        <h3>Freelance Web Developer & Consultant (2011 - 2019)</h3>
+        <ul>
+            <li>Worked with various agencies, including Sovrn, Fourwinds, and ACR, delivering robust web solutions and innovations.</li>
+            <li>Utilized a range of technologies, including JavaScript, React, Express, Python, Docker, Maven, Spring Boot, Swift, and Next.js.</li>
+            <li>Provided consultancy services for art and tech integrations, collaborating on projection mapping and AR experiences.</li>
         </ul>
     
-        <h3>Web Developer (Freelance & Agencies 2011 - 2019)</h3>
+        <h3>National Credit Resolution (Collector, 2015 - 2018)</h3>
         <ul>
-            <li>Worked with agencies including Sovrn, Fourwinds, and ACR.</li>
-            <li>Utilized tools and frameworks like JavaScript, React, Express, and Python.</li>
+            <li>Developed an automation system, significantly reducing workforce requirements and enhancing operational efficiency.</li>
+            <li>Achieved and sustained high sales performance, generating over $70K monthly.</li>
         </ul>
     
-        <h3>Navy Quartermaster (2009 - 2011)</h3>
+        <h3>United States Navy (Quartermaster, 2009 - 2011)</h3>
         <ul>
-            <li>Responded to the Fukushima crisis, receiving a humanitarian service award.</li>
-            <li>Received advanced training in navigation and seamanship.</li>
+            <li>Responded to the Fukushima crisis, receiving a humanitarian service award for outstanding performance and dedication.</li>
+            <li>Received advanced training in navigation and seamanship, contributing to critical missions and operations.</li>
         </ul>
     
         <h2>Education:</h2>
-        <p>Nicholls State University: Studied public relations and took on leadership roles.<br>RefactorU: Completed a coding bootcamp, working on projects with CSU Boulder.</p>
+        <p>Nicholls State University: Public Relations Studies<br>RefactorU: Coding Bootcamp</p>
+
+        <h2>United States Navy Training (2009 - 2011):</h2>
+        <ul>
+            <li>Basic Training: Completed at Recruit Training Command, Naval Station Great Lakes. This rigorous program included physical fitness, naval customs, first aid, firefighting, water survival, and shipboard safety.</li>
+            <li>'A' School for Quartermasters: Attended at the Naval Training Center in Great Lakes, IL. Focused on navigation fundamentals, charting, naval correspondence, use of navigational tools, and signaling.</li>
+            <li>Advanced Training: Participation in specialized seamanship training at Naval Base Yokosuka, Japan. This advanced training included practical navigation, electronic navigation systems, and bridge simulator exercises.</li>
+            <li>Hands-On Experience: Gained at Naval Base Kitsap in Puget Sound, emphasizing real-world navigation, ship handling, and leadership responsibilities in various sea conditions.</li>
+        </ul>
     
         <h2>Community Involvement:</h2>
         <ul>
-            <li>Supported the Smyrna GA government and Free Thought Society.</li>
-            <li>Engaged in charitable initiatives like feeding the homeless and donating bicycles.</li>
+            <li>Engaged in various initiatives, including supporting the Smyrna GA government, Free Thought Society, and organizing charitable activities.</li>
         </ul>
         
         <h2>Skills:</h2>
     <p>
-        <strong>Languages:</strong>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>,
-        <a href="https://www.python.org/doc/" target="_blank">Python</a>,
-        <a href="https://www.php.net/docs.php" target="_blank">PHP</a>,
-        <a href="https://www.typescriptlang.org/docs/" target="_blank">TypeScript</a><br>
-        
-        <strong>Front-End:</strong>
-        <a href="https://reactjs.org/docs/getting-started.html" target="_blank">React</a>,
-        <a href="https://vuejs.org/v2/guide/" target="_blank">Vue</a>,
-        <a href="https://vitejs.dev/guide/" target="_blank">Vite</a>,
-        <a href="https://svelte.dev/tutorial" target="_blank">Svelte</a>,
-        <a href="https://nextjs.org/docs/getting-started" target="_blank">Next.js</a>,
-        <a href="https://tailwindcss.com/docs" target="_blank">Tailwinds</a><br>
-        
-        <strong>Back-End:</strong>
-        <a href="https://nodejs.org/en/docs/" target="_blank">Node</a>,
-        <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank">Flask</a>,
-        <a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI</a><br>
-        
-        <strong>Databases:</strong>
-        <a href="https://www.postgresql.org/docs/" target="_blank">Postgres</a>,
-        <a href="https://docs.mongodb.com/" target="_blank">MongoDB</a>,
-        <a href="https://docs.microsoft.com/en-us/sql/sql-server/documentation?view=sql-server-ver15" target="_blank">Windows SQL Server</a>,
-        <a href="https://dev.mysql.com/doc/" target="_blank">MySQL</a><br>
-        
-        <strong>Tools & Environment:</strong>
-        <a href="https://docs.docker.com/" target="_blank">Docker</a>,
-        <a href="https://www.jenkins.io/doc/" target="_blank">Jenkins</a>,
-        <a href="https://git-scm.com/doc" target="_blank">Git</a>,
-        <a href="https://httpd.apache.org/docs/" target="_blank">Apache</a>,
-        <a href="https://www.linux.org/pages/manuals/" target="_blank">Linux</a><br>
-        
-        <strong>Others:</strong>
-        <a href="https://docs.retool.com/docs" target="_blank">Retool</a>,
-        <a href="https://wordpress.org/support/documentation/" target="_blank">WordPress</a>
+        <strong>Web Development:</strong> JavaScript, React, Express, Python, Docker, Maven, Spring Boot, Swift, Next.js<br>
+        <strong>AI & Machine Learning:</strong> Experience with GPT-2, GPT-3, Stable Diffusion, TensorFlow, PyTorch<br>
+        <strong>Systems Integration:</strong> CRM Systems, Online Banking Systems, WordPress<br>
+        <strong>Project Management:</strong> Agile, Scrum, Technical Documentation
     </p>
     </body>
     </html>
