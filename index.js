@@ -57,9 +57,9 @@ function getHtmlContent() {
     </head>
     <body>
         <h1>Shane Langnes</h1>
-        <p><strong>Professional Summary:</strong> Experienced and versatile web developer with a robust background in software development, AI integration, and system optimization. Proven ability to adapt to various roles, demonstrating skills in full-stack development, project management, and AI implementation. Passionate about innovating and streamlining processes to enhance system functionalities and user experience.</p>
+        <p><h2>Professional Summary:</h2> Experienced and versatile web developer with a robust background in software development, AI integration, and system optimization. Proven ability to adapt to various roles, demonstrating skills in full-stack development, project management, and AI implementation. Passionate about innovating and streamlining processes to enhance system functionalities and user experience.</p>
         
-        <h2><p><a href="mailto:shane@shanelangnes.com">Email</a> | <a href="https://github.com/Slangnes">Github</a> | <a href="https://www.linkedin.com/in/slangnes/">Linkedin</a></p></h2>
+        <h3><p><a href="mailto:shane@shanelangnes.com">Email</a> | <a href="https://github.com/Slangnes">Github</a> | <a href="https://www.linkedin.com/in/slangnes/">Linkedin</a></p></h3>
 
         <h2>Professional Experience:</h2>
         <h3>Georgia's Own Credit Union (Programmer/Developer, 2019 - 2023)</h3>
